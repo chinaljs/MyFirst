@@ -1,0 +1,6 @@
+server:
+ port: 8083
+ context-path: /test02
+
+mytool:
+ serverpath: 13
